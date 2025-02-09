@@ -20,6 +20,6 @@ This tool helps detect email spoofing by analyzing SPF, DKIM, and DMARC records.
 ## 🏗️ Setup  
 1. Install Python and required libraries:  
    ```sh
-   pip install -r requirements.txt#
+   pip install -r requirements.txt
 
    
